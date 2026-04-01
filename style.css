@@ -2,5 +2,12 @@ body {
 background-color: #111111;
 color: #e8e8e8;
 font-family: "Space Grotesk", sans-serif;
+}
+
+header a {
 padding: 20px
+}
+
+main {
+padding: 50px
 }
