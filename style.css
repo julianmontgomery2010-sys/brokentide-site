@@ -8,6 +8,11 @@ header a {
 padding: 20px;
 }
 
+a { 
+font-family: "Audiowide", sans-serif;
+color: #73ced1; 
+}
+
 h1 {
 text-align: center;
 }
