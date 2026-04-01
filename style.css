@@ -12,7 +12,10 @@ h1 {
 text-align: center;
 }
 
-ul { list-style: none } 
+ul { 
+  list-style: none 
+  text-align: center;  
+} 
 
 main { 
 max-width: 800px;
