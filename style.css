@@ -1,5 +1,5 @@
 body {
-background-color: #111111;
+background: linear-gradient(135deg, #0a0a0a, #1a2030);
 color: #e8e8e8;
 font-family: "Space Grotesk", sans-serif;
 }
@@ -11,6 +11,7 @@ padding: 20px;
 h1 {
 max-width: 800px;
 margin: auto;
+text-align: center
 }
 
 p { 
