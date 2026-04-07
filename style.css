@@ -1,6 +1,7 @@
 header a {
 display: block;
-width: 100%; 
+width: 100%;
+box-sizing: border-box; 
 text-decoration: none;
 padding: 20px;
 font-size: 20px;
