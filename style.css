@@ -1,6 +1,6 @@
 header {
 border-bottom: 1px solid transparent;
-border-image: linear-gradient(90deg, transparent, #73ced1, transparent) 1
+border-image: linear-gradient(90deg, transparent, #73ced1, transparent) 1;
 }
 
 header a {
