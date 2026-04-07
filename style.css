@@ -1,11 +1,12 @@
+header {
+border-bottom: 1px solid transparent;
+border-image: linear-gradient(90deg, transparent, #73ced1, transparent) 1
+}
+
 header a {
-display: block;
-width: 100%;
-box-sizing: border-box; 
 text-decoration: none;
 padding: 20px;
 font-size: 20px;
-border-bottom: 1px solid #DDDDDD; 
 }
 
 body {
