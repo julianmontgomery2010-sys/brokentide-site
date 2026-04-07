@@ -1,6 +1,8 @@
 header {
-border-bottom: 1px solid transparent;
-border-image: linear-gradient(90deg, transparent, #73ced1, transparent) 1;
+border-bottom: 3px solid transparent;
+border-image: linear-gradient(90deg, transparent, #DDDDDD, transparent) 1;
+padding-top: 20px;
+
 }
 
 header a {
@@ -25,8 +27,8 @@ text-align: center;
 }
 
 ul { 
-  list-style: none; 
-  padding: 0; 
+list-style: none; 
+padding: 0; 
 } 
 
 main { 
