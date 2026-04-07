@@ -12,6 +12,7 @@ font-size: 30px;
 }
 
 body {
+min-height: 100vh
 background: linear-gradient(180deg, #0a0a0a, #1a2030);
 color: #e8e8e8;
 font-family: "Space Grotesk", sans-serif;
